@@ -1,2 +1,17 @@
+body{
+    background-color: black;
+}
+
 h1{color: green
+}
+#musician-title{
+    color: orange;
+}
+#music-item {
+    color:white;
+    background-color:purple;
+}
+#musician-item {
+    color:white;
+    background-color:blueviolet;
 }
