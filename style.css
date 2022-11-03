@@ -27,3 +27,15 @@ h1{color: green
     color:white;
     background-color:blueviolet;
 }
+#ball {
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: width 2s;
+    transition: heigth 2s;
+}
+#ball:hover {
+    width: 300px;
+    height: 300px;
+}
