@@ -4,6 +4,14 @@ body{
 
 h1{color: green
 }
+
+.upper-section{
+    background-color: grey;
+}
+.lower-section{
+    background-color: aqua;
+}
+
 #musician-title{
     color: orange;
 }
